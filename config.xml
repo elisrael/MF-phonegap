@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "org.coenraets.employeedirectory"
+        versionCode="10"
+        version   = "0.1.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>MatchesFashion</name>
+
+    <description>
+        MatchesFashion Mobile Application
+    </description>
+
+    <author href="http://www.matchesfashion.com/mobile" email="">
+            MatchesFashion
+    </author>
+    <gap:splash src="splash/ios/Default_iphone5.png" gap:platform="ios" width="640" height="1136" />
+    <gap:splash src="splash/ios/Default-Landscape.png" gap:platform="ios" width="1024" height="748" />
+</widget>
